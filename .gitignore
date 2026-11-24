@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+output/
+
+# Transcripts and recordings (sealed grading material, never committed)
+transcripts/
+*.tar.gz
+
+# Editor and OS artefacts
+.DS_Store
+*.log
+.vscode/
+.idea/
